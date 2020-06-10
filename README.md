@@ -19,7 +19,7 @@ Collection of REST API exposed by the email service
 
 ### Body
 
-```json
+```bash
     {
        "to"       : "<email-address>"          // mandatory
        "subject"  : "<subject-of-email>"       // mandatory
@@ -29,7 +29,7 @@ Collection of REST API exposed by the email service
 
 ### Response 200
 
-```json
+```bash
     {
         "success" : true
     } 
