@@ -1,4 +1,4 @@
-### Email Microservice
+# Email Microservice
 
 This is a email microservice that exposes rest api to send email.
 
