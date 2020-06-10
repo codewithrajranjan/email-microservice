@@ -1,3 +1,5 @@
+![Clojure CI](https://github.com/self-tuts/email-microservice/workflows/Clojure%20CI/badge.svg)
+
 # Email Microservice
 
 This is a email microservice that exposes rest api to send email.
